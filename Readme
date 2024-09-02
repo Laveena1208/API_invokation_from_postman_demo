@@ -7,4 +7,4 @@ Invoke Puython lambda api through postman.
 4. add IAM policies required.
 5. test the application from postman, the api gateway will gies you the unique post url with endpoint.
 6. add that url and with post request and add body (test_case.json).
-Hot the API, WOWWWW! it will gives the correct response returninh from lambda service.
+Hit the API, WOWWWW! it will gives the correct response returninh from lambda service.
