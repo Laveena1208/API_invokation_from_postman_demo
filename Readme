@@ -1,0 +1,10 @@
+Problem statement:
+Invoke Puython lambda api through postman.
+
+1. create lambda function which loads data through postman and return the response.
+2. for API GATEWAY from lambda service, create the api from api gateway aws service add all required details also, integrate it with respective lambda ficntion.
+3. you can verufy the same, by lamnda sfucntion will show the API Gate as its trigger.
+4. add IAM policies required.
+5. test the application from postman, the api gateway will gies you the unique post url with endpoint.
+6. add that url and with post request and add body (test_case.json).
+Hot the API, WOWWWW! it will gives the correct response returninh from lambda service.
